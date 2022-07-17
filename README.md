@@ -13,3 +13,8 @@ Modified again.
 - [x] func2
 
 added on branch master
+
+## feature B
+
+- [x] func1
+- [x] func2
