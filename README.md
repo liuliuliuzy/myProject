@@ -11,6 +11,7 @@ Modified again.
 
 - [x] func1
 - [x] func2
+- [x] func3
 
 added on branch master
 
@@ -18,3 +19,4 @@ added on branch master
 
 - [x] func1
 - [x] func2
+
