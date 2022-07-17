@@ -11,3 +11,4 @@ Modified again.
 
 - [x] func1
 - [x] func2
+- [x] func3 of feature B
