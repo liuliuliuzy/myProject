@@ -6,3 +6,8 @@ Modified.
 Added in remote repository.
 
 Modified again.
+
+## feature B
+
+- [ ] func1
+- [ ] func2
